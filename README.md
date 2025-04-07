@@ -1,5 +1,5 @@
 # EFGTNet: Edge Feature Guided Transformer Network for Point Cloud Salient Object Detection
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![](architecture.png)
 
 
 > **Paper Title (English)**
