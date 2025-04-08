@@ -12,10 +12,12 @@ The training and testing data is provided by [PCSOD](https://git.openi.org.cn/Op
 ## Train
 ```bash
 python train.py
+```
 
 ## Evaluate
 ```bash
 python test.py
+```
 You can try out directly some of our pretrained models. The checkpoints can be found here.
 
 ---
