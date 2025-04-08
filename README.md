@@ -18,7 +18,7 @@ python train.py
 ```bash
 python test.py
 ```
-You can try out directly some of our pretrained models. The checkpoints can be found here.
+You can directly obtain our visualization results from [here](), or download our pretrained model. The checkpoints can be found [here]().
 
 ---
 
