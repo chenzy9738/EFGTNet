@@ -22,3 +22,6 @@ You can directly obtain our visualization results from [here](), or download our
 
 ---
 
+Part of the code comes from previous work below, and we appreciate their contributions:
+1. [Salient Object Detection for Point Clouds](https://git.openi.org.cn/OpenPointCloud/PCSOD)
+2. [Point Transformer-Based Salient Object Detection Network for 3-D Measurement Point Clouds](https://github.com/ZeyongWei/PSOD-Net)
