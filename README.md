@@ -2,20 +2,18 @@
 ![](architecture.png)
 
 
+---
+
+## Dataset
+The training and testing data is provided by PCSOD.
+
+# Project Title (Paper Title)
 > **Paper Title (English)**
 >
 > **Authors:** Your Name or Team  
 > **Published in:** Conference/Journal, Year  
 > **Paper Link:** [arXiv / DOI](https://arxiv.org/abs/xxxx.xxxx)  
 > **Code Repository:** [GitHub Repo](https://github.com/your-repo)
-
----
-
-## 📖 Introduction
-This repository contains the official implementation of **[Paper Title](https://arxiv.org/abs/xxxx.xxxx)**.  
-The paper proposes **(a brief summary of the key contribution)**, which is designed for **(application domain, e.g., 3D object detection, semantic segmentation, etc.)**.
-
-> **Keywords:** Key research terms (e.g., deep learning, 3D vision, graph neural networks)
 
 ---
 
