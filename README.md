@@ -18,7 +18,7 @@ python train.py
 ```bash
 python test.py
 ```
-You can directly obtain our visualization results, or download our pretrained model. The checkpoints can be found [here](). After downloading the model best_model.pth, please place it in the directory log/efgtnet/checkpoints/ and run `test.py` .
+You can directly obtain our visualization results, or download our pretrained model. The checkpoints can be found [here](https://pan.baidu.com/s/1o2m2awVojc8q61-_DzCZEA?pwd=7pca). After downloading the model best_model.pth, please place it in the directory `log/efgtnet/checkpoints/` and run `test.py` .
 
 ---
 
