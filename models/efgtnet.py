@@ -437,7 +437,7 @@ class EFFT(nn.Module):
         )
 
         self.chunk = nn.TransformerEncoder(
-            nn.TransformerEncoderLayer(d_model=self.nc_in, nhead=nhead, dim_feedforward=2 * self.nc_in, dropout=drop, batch_first=True),
+            nn.TransformerEncoderLayer(d_model=self.nc_in, nhead=nhead, dim_feedforward=2 * self.nc_in, dropout=drop),
             num_layers=num_layers)
 
         self.fc = nn.Conv2d(self.nc_in, self.nc_out, 1)
@@ -484,7 +484,7 @@ class EFET(nn.Module):
         )
 
         self.chunk = nn.TransformerEncoder(
-            nn.TransformerEncoderLayer(d_model=self.nc_in, nhead=nhead, dim_feedforward=2 * self.nc_in, dropout=drop, batch_first=True),
+            nn.TransformerEncoderLayer(d_model=self.nc_in, nhead=nhead, dim_feedforward=2 * self.nc_in, dropout=drop),
             num_layers=num_layers)
 
         self.fc = nn.Conv2d(self.nc_in, self.nc_out, 1)
