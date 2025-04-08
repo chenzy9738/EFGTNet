@@ -5,15 +5,18 @@
 ---
 
 ## Dataset
-The training and testing data is provided by PCSOD.
+The training and testing data is provided by [PCSOD](https://git.openi.org.cn/OpenDatasets/PCSOD-Dataset/datasets).
 
-# Project Title (Paper Title)
-> **Paper Title (English)**
->
-> **Authors:** Your Name or Team  
-> **Published in:** Conference/Journal, Year  
-> **Paper Link:** [arXiv / DOI](https://arxiv.org/abs/xxxx.xxxx)  
-> **Code Repository:** [GitHub Repo](https://github.com/your-repo)
+---
+
+## Train
+```bash
+python train.py
+
+## Evaluate
+```bash
+python test.py
+You can try out directly some of our pretrained models. The checkpoints can be found here.
 
 ---
 
